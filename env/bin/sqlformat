@@ -1,4 +1,4 @@
-#!/home/hp/Documents/Api_mastering/blog_project_python/env/bin/python
+#!/home/hp/Documents/Api_mastering/blog_front_back_end/blog_project_python/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
